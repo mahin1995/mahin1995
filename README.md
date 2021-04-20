@@ -106,6 +106,42 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
-
+<h2>📊 Weekly development breakdown: </h2>
+<table>
+                <tr>
+                    <td width=215px;>
+                        Python(django)
+                    </td>
+                    <td>
+                        11 hrs 43 mins
+                    </td>
+                    <td>
+                        ██████░░░░&nbsp;&nbsp;(67.01 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        CSS
+                    </td>
+                    <td width=145px;>
+                        3 hrs 8 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        HTML
+                    </td>
+                    <td width=145px;>
+                        2 hrs 27 mins
+                    </td>
+                    <td width=230px;>
+                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
+                    </td>
+                </tr></table>
+<hr>
+<h4 align="center">Thanks For Watching<h4>
 
 

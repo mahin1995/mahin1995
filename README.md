@@ -68,7 +68,7 @@
  <!---- <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 "> </code>---->
   <hr>
-  ### Programming Languages 🌐
+<!--   ### Programming Languages 🌐
 
 - Know/Using
 
@@ -91,7 +91,7 @@
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| many more...
 |---|---|---|---|---|---|
-
+ -->
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!

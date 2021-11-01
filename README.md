@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahin1995" alt="mahin1995" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahin" target="blank"><img src="https://img.shields.io/twitter/follow/mahin?logo=twitter&style=for-the-badge" alt="mahin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Django and Pl/pgsql**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohaimanul-islam-mahin-1b8667125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohaimanul-islam-mahin-1b8667125" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16348961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16348961" height="30" width="40" /></a>
 <a href="https://fb.com/mohaimanul.islammahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohaimanul.islammahin" height="30" width="40" /></a>

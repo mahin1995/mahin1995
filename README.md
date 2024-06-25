@@ -21,9 +21,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Mohaimanul is a Junior Developer based in Dhaka, Bangladesh. With 3 years of experience, he specializes in building Rest APIs using Spring Boot, Django, Express.js, React, and Next.js. Additionally, he possesses knowledge in AWS services such as EC2, S3, and RDS, as well as proficiency in managing VPS servers and Linux environments.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+In his spare time, Mohaimanul enjoys indulging in leisurely activities like sleeping and gaming. His passion for coding and dedication to enhancing his skills make him a valuable asset to any development team.  
   
 
 <br/>  
